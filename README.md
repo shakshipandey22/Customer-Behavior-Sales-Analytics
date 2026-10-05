@@ -20,7 +20,7 @@ This project demonstrates the complete analytics workflow — from **raw data an
 | Dashboard            | Power BI             |
 | Data Source          | CSV / Excel          |
 | Analysis Environment | Jupyter Notebook     |
-| Presentation         | Gamma                |
+
 
 ---
 
