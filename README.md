@@ -287,8 +287,10 @@ Comparing Standard and Express shipping helps identify differences in purchasing
 │
 ├── 📂 images
 │   ├── powerbi-dashboard.png
-│   ├── revenue-analysis.png
-│   └── customer-segmentation.png
+│   ├── age_group_revenue_analysis.png
+    ├── top_products_by_category.png
+    ├── customer_shopping_behavior_dataset.png
+    └── age_group_creation.png
 │
 └── 📄 README.md
 ```
