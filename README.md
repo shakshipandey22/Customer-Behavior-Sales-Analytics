@@ -382,9 +382,9 @@ Passionate about turning data into **clear insights and practical business decis
 
 ### 🔗 Connect With Me
 
-**GitHub:** `Add your GitHub profile URL`
+**GitHub:** `https://github.com/shakshipandey22`
 
-**LinkedIn:** `Add your LinkedIn profile URL`
+**LinkedIn:** `www.linkedin.com/in/shakshi-pandey-697425292`
 
 
 <div align="center">
