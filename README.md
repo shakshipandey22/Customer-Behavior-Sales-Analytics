@@ -264,7 +264,7 @@ Comparing subscribers with non-subscribers helps evaluate customer spending and 
 
 Comparing Standard and Express shipping helps identify differences in purchasing behavior.
 
-> **Note:** Add actual numbers and percentages from your analysis here rather than generic conclusions.
+
 
 ---
 
