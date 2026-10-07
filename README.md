@@ -274,17 +274,16 @@ Comparing Standard and Express shipping helps identify differences in purchasing
 📦 customer-behavior-analysis
 │
 ├── 📂 data
-│   └── customer.csv
+│   └── customer_shopping_behavior (1).csv
 │
 ├── 📂 notebooks
-│   └── customer_analysis.ipynb
+│   └── /Customer_Shopping_Behavior_Analysis_. (1) (1).ipynb
 │
 ├── 📂 sql
 │   └── customer_behavior.sql
-│
 ├── 📂 powerbi
-│   └── customer_behavior_dashboard.pbix
-│
+│   └── customer_behaviour.pbix
+
 ├── 📂 images
 │   ├── powerbi-dashboard.png
 │   ├── age_group_revenue_analysis.png
